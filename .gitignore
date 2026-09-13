@@ -1,0 +1,15 @@
+
+# Ambiente virtual
+venv/
+env/
+
+# Arquivos de configuração com senhas
+.env
+
+# Dados pessoais e saídas geradas
+data/*.pdf
+output/
+
+# Arquivos de sistema do Mac
+.DS_Store
+__pycache__/
